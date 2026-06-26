@@ -9,7 +9,7 @@
 // export default Trending;
 import SongCard from "../components/SongCard";
 import songs from "../data/songs";
-
+import React from "react";
 const Trending = () => {
 
   const trendingSongs = [

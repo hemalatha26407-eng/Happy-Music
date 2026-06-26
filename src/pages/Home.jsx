@@ -35,7 +35,7 @@
 
 // export default Home;
 import SongCard from "../components/SongCard";
-
+import React from "react";
 const Home = ({
   songs,
   setSelectedSong,

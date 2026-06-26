@@ -124,6 +124,7 @@
 // };
 
 // export default SongCard;
+import React from "react";
 const SongCard = ({
   song,
   setSelectedSong

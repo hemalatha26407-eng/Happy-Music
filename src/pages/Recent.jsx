@@ -1,5 +1,5 @@
 import SongCard from "../components/SongCard";
-
+import React from "react";
 const Recent = ({
   recentSongs,
   setSelectedSong
